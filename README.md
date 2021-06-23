@@ -13,10 +13,13 @@
   <img align="center" alt="Rose-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rose-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
+  <img align="center" alt="Rose-Node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 </div>
 
 <div>
  <img align="right" alt="Kylo-ren" src="https://4.bp.blogspot.com/-zgiweA_q9Vk/VzzTOFbVpQI/AAAAAAACgbQ/7cxCYSllg50T-am00NgHHnW9ZBKPKp_1gCKgB/s1600/starwarspixelatedgif4.gif">
+ <img align="left" alt="Kylo-ren" src="https://1.bp.blogspot.com/-DvDB4twcubA/VzzTPeRW_RI/AAAAAAACgbg/neJ_cJP1-vYe3k8IPJrIP3AZUHhrTPwFACKgB/s1600/starwarspixelatedgif9.gif">
 </div>
   
   ##
