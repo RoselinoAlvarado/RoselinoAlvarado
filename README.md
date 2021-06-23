@@ -18,8 +18,8 @@
 </div>
 
 <div>
- <img align="right" alt="Kylo-ren" src="https://4.bp.blogspot.com/-zgiweA_q9Vk/VzzTOFbVpQI/AAAAAAACgbQ/7cxCYSllg50T-am00NgHHnW9ZBKPKp_1gCKgB/s1600/starwarspixelatedgif4.gif">
- <img align="left" alt="Kylo-ren" src="https://1.bp.blogspot.com/-DvDB4twcubA/VzzTPeRW_RI/AAAAAAACgbg/neJ_cJP1-vYe3k8IPJrIP3AZUHhrTPwFACKgB/s1600/starwarspixelatedgif9.gif">
+ <img align="right" alt="Kylo-ren" height="200" width="320" src="https://4.bp.blogspot.com/-zgiweA_q9Vk/VzzTOFbVpQI/AAAAAAACgbQ/7cxCYSllg50T-am00NgHHnW9ZBKPKp_1gCKgB/s1600/starwarspixelatedgif4.gif">
+ <img align="left" alt="Kylo-ren" height="200" width="320" src="https://1.bp.blogspot.com/-DvDB4twcubA/VzzTPeRW_RI/AAAAAAACgbg/neJ_cJP1-vYe3k8IPJrIP3AZUHhrTPwFACKgB/s1600/starwarspixelatedgif9.gif">
 </div>
   
   ##
@@ -29,6 +29,6 @@
   <a href = "roselinoalvarado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roselino-alvarado-abaa70160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/roselinoalvarado/roselinoalvarado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
