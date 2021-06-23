@@ -3,8 +3,8 @@
 ## Oiii! Eu sou a Roselino Alvarado 
  <div>
   <a href="https://github.com/RoselinoAlvarado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roselinoalvarado&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselinoalvarado&layout=compact&langs_count=16&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roselinoalvarado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselinoalvarado&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,11 +16,6 @@
   <img align="center" alt="Rose-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
   <img align="center" alt="Rose-Node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 </div>
-
-<div style="display: inline_block">
- <img align="right" alt="Kylo-ren" height="200" width="320" src="https://4.bp.blogspot.com/-zgiweA_q9Vk/VzzTOFbVpQI/AAAAAAACgbQ/7cxCYSllg50T-am00NgHHnW9ZBKPKp_1gCKgB/s1600/starwarspixelatedgif4.gif">
- <img align="left" alt="Kylo-ren" height="200" width="320" src="https://1.bp.blogspot.com/-DvDB4twcubA/VzzTPeRW_RI/AAAAAAACgbg/neJ_cJP1-vYe3k8IPJrIP3AZUHhrTPwFACKgB/s1600/starwarspixelatedgif9.gif">
-</div>
   
   ##
  
@@ -31,4 +26,9 @@
  
     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+ 
+ <div style="display: inline_block">
+ <img align="right" alt="Kylo-ren" height="200" width="320" src="https://4.bp.blogspot.com/-zgiweA_q9Vk/VzzTOFbVpQI/AAAAAAACgbQ/7cxCYSllg50T-am00NgHHnW9ZBKPKp_1gCKgB/s1600/starwarspixelatedgif4.gif">
+ <img align="left" alt="Kylo-ren" height="200" width="320" src="https://1.bp.blogspot.com/-DvDB4twcubA/VzzTPeRW_RI/AAAAAAACgbg/neJ_cJP1-vYe3k8IPJrIP3AZUHhrTPwFACKgB/s1600/starwarspixelatedgif9.gif">
 </div>
