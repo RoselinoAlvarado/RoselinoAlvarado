@@ -28,8 +28,8 @@
 </div>
  
  <div style="display: inline_block">
- <img align="right" alt="Kylo-ren" height="180" width="300" src="https://4.bp.blogspot.com/-zgiweA_q9Vk/VzzTOFbVpQI/AAAAAAACgbQ/7cxCYSllg50T-am00NgHHnW9ZBKPKp_1gCKgB/s1600/starwarspixelatedgif4.gif">
- <img align="left" alt="Kylo-ren" height="180" width="300" src="https://1.bp.blogspot.com/-DvDB4twcubA/VzzTPeRW_RI/AAAAAAACgbg/neJ_cJP1-vYe3k8IPJrIP3AZUHhrTPwFACKgB/s1600/starwarspixelatedgif9.gif">
-  <img align="center" alt="Captain-phasma" height="180" width="300" src="https://4.bp.blogspot.com/-zEof6zR_20U/VzzTObdWO9I/AAAAAAACgbU/tJjAVO_O8qw4zA2b-kcGwLdwTpPd7vC3ACKgB/s1600/starwarspixelatedgif6.gif">
+ <img align="right" alt="Kylo-ren" height="140" width="280" src="https://4.bp.blogspot.com/-zgiweA_q9Vk/VzzTOFbVpQI/AAAAAAACgbQ/7cxCYSllg50T-am00NgHHnW9ZBKPKp_1gCKgB/s1600/starwarspixelatedgif4.gif">
+ <img align="left" alt="Kylo-ren" height="140" width="280" src="https://1.bp.blogspot.com/-DvDB4twcubA/VzzTPeRW_RI/AAAAAAACgbg/neJ_cJP1-vYe3k8IPJrIP3AZUHhrTPwFACKgB/s1600/starwarspixelatedgif9.gif">
+  <img align="center" alt="Captain-phasma" height="140" width="280" src="https://4.bp.blogspot.com/-zEof6zR_20U/VzzTObdWO9I/AAAAAAACgbU/tJjAVO_O8qw4zA2b-kcGwLdwTpPd7vC3ACKgB/s1600/starwarspixelatedgif6.gif">
 </div>
 </div>
